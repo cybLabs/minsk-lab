@@ -42,6 +42,8 @@
 
 ### Skywire Testnet
 
+### Dfinity Testnet
+
 ### FOAM
 
 ## `Mesh`
